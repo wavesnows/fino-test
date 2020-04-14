@@ -1,2 +1,2 @@
 # wave-test
-a test lib for npm
+A test lib for npm
