@@ -1,3 +1,5 @@
+//add
+
 (function () {
   'use strict';
     function getRandomNumber() {
