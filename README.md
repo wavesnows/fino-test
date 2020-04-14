@@ -1,2 +1,2 @@
-# wave-test
+## wave-test
 A test lib for npm.
