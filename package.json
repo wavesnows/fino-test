@@ -1,7 +1,10 @@
-
-  "name": "fino-test",
+{
+  "name": "@finoer/fino-test",
   "version": "0.0.1",
   "description": "Fino Test Tools",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/finoer"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
