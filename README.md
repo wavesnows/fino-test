@@ -1,2 +1,2 @@
-# Wave Test
+# Fino Test
 a test lib for npm

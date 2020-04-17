@@ -1,7 +1,7 @@
 
-  "name": "wave-test",
+  "name": "fino-test",
   "version": "0.0.1",
-  "description": "Wave Tools",
+  "description": "Fino Test Tools",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fujusong/wave-test.git"
+    "url": "git+https://github.com/finoer/fino-test.git"
   },
   "keywords": [
     "wave",
@@ -20,7 +20,7 @@
   "author": "wavesnow",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fujusong/wave-test/issues"
+    "url": "https://github.com/finoer/fino-test/issues"
   },
-  "homepage": "https://github.com/fujusong/wave-test#readme"
+  "homepage": "https://github.com/finoer/fino-test#readme"
 }
